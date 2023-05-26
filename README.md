@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul sindhu</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://github.com/rahulsindhu01/rahulsindhu01/blob/main/IMG_0855.gif" alt="rahulsindhu01" /> </p>
