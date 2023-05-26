@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul sindhu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://infographicnow.com/wp-content/uploads/2021/02/pixel-art-gif-Captivating-Pixel-Art-Scenes.gif" alt="rahulsindhu01" /> </p>
+<p align="left"> <img src="https://github.com/rahulsindhu01/rahulsindhu01/blob/main/IMG_0855.gif" alt="rahulsindhu01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahul_sindhu007" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_sindhu007?logo=twitter&style=for-the-badge" alt="rahul_sindhu007" /></a> </p>
 
