@@ -3,23 +3,19 @@
 
 <p align="center"> <img src="https://github.com/rahulsindhu01/rahulsindhu01/blob/main/IMG_0855.gif" alt="rahulsindhu01" /> </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Backend dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsindhu01&label=Profile%20views&color=ba9d36&style=flat" alt="rahulsindhu01" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rahul_sindhu007" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_sindhu007?logo=twitter&style=for-the-badge" alt="rahul_sindhu007" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce website for a client**
-
 - 🌱 I’m currently learning **React native**
 
-- 👯 I’m looking to collaborate on **opensource projects and some commissions**
+- 👯 I’m looking to collaborate on **opensource projects**
 
 - 💬 Ask me about **python, javascript , html, css**
 
-- 📫 How to reach me **me.rahul.professional@gmail.com**
-
-- ⚡ Fun fact **As a dev you never stop learning new things🙂**
+- 📫 How to reach me **me.rahul.personal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
